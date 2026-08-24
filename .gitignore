@@ -1,0 +1,21 @@
+node_modules/
+.next/
+out/
+build/
+dist/
+
+# Entorno — nunca commitear credenciales reales
+.env
+.env.*
+!.env.example
+
+npm-debug.log*
+yarn-error.log*
+.DS_Store
+*.pem
+.vercel
+next-env.d.ts
+tsconfig.tsbuildinfo
+
+# Override local (bind mount de prod no existe fuera del server) — sólo para pruebas
+docker-compose.override.yml

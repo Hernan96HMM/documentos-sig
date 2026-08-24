@@ -1,0 +1,149 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+  Tokens del stack sicalab — base azul-noche + acento ámbar.
+  Tailwind los consume desde tailwind.config.ts; acá quedan disponibles también
+  para CSS plano (impresión, scrollbars, gradientes).
+*/
+:root {
+  --bg-0: #0b1220;
+  --bg-1: #111a2c;
+  --bg-2: #16213a;
+  --panel: #1a2540;
+  --panel-2: #20304f;
+  --border: #2b3b5c;
+  --border-lt: #374a6f;
+  --text: #e6ebf5;
+  --text-dim: #9fb0cc;
+  --text-faint: #6b7fa3;
+  --amber: #f0a030;
+  --amber-dim: #c17f1e;
+  --amber-glow: rgba(240, 160, 48, 0.35);
+  --green: #3fb87f;
+  --yellow: #e0b030;
+  --red: #e0555a;
+  --blue: #3fa9f5;
+
+  --font-mono: "SF Mono", "Consolas", "Menlo", monospace;
+  --font-serif: "Georgia", "Iowan Old Style", serif;
+  --font-sans: "Segoe UI", system-ui, -apple-system, sans-serif;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background:
+    radial-gradient(ellipse at top left, rgba(240, 160, 48, 0.06), transparent 45%),
+    radial-gradient(ellipse at bottom right, rgba(63, 120, 184, 0.08), transparent 50%),
+    linear-gradient(180deg, var(--bg-0), var(--bg-1) 40%, var(--bg-0));
+  background-attachment: fixed;
+  color: var(--text);
+  font-family: var(--font-sans);
+  min-height: 100vh;
+}
+
+/* Scroll suave y barra al tono del panel — igual que el resto del stack. */
+html {
+  scroll-behavior: smooth;
+}
+::-webkit-scrollbar {
+  height: 8px;
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border-lt);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--amber-dim);
+}
+
+input,
+select,
+button,
+textarea {
+  font-family: inherit;
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+  filter: invert(0.7) sepia(1) saturate(3) hue-rotate(5deg);
+  cursor: pointer;
+}
+
+:focus-visible {
+  outline: 2px solid var(--amber);
+  outline-offset: 2px;
+}
+
+@layer components {
+  .btn {
+    @apply font-mono text-xs px-3.5 py-2 rounded-md border border-line bg-panel text-ink-dim
+           transition-colors duration-150 hover:border-line-lt hover:text-ink
+           disabled:opacity-40 disabled:cursor-not-allowed;
+  }
+  .btn-amber {
+    @apply bg-amber border-amber text-[#1a1200] font-bold hover:bg-[#ffb238] hover:text-[#1a1200];
+  }
+  .btn-danger {
+    @apply border-bad text-bad hover:border-bad hover:text-bad hover:bg-[rgba(224,85,90,0.12)];
+  }
+  .field {
+    @apply w-full bg-bg-0 border border-line rounded px-2 py-1.5 text-[12.5px] text-ink
+           outline-none transition-colors focus:border-amber-dim;
+  }
+  .badge {
+    @apply inline-block font-mono text-[10.5px] px-2 py-0.5 rounded-full font-semibold tracking-wide;
+  }
+}
+
+/* Impresión: el "Exportar vista a PDF" del HTML original usaba window.print(). */
+@media print {
+  body {
+    background: #fff !important;
+    color: #111 !important;
+  }
+  .no-print {
+    display: none !important;
+  }
+  .print-title {
+    display: block !important;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 10px 0;
+    color: #111 !important;
+  }
+  table {
+    font-size: 11px;
+  }
+  thead th {
+    background: #eee !important;
+    color: #111 !important;
+  }
+  td,
+  th {
+    color: #111 !important;
+    border-color: #999 !important;
+  }
+  .badge {
+    border: 1px solid #999;
+    background: #fff !important;
+    color: #111 !important;
+  }
+  .panel-print-reset {
+    background: #fff !important;
+    border-color: #999 !important;
+  }
+}
+
+.print-title {
+  display: none;
+}

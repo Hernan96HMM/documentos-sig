@@ -1,0 +1,2842 @@
+{
+  "it_moviles": [
+    {
+      "codigo": "IP 7.5.5/1",
+      "titulo": "Almacenaje y Manipuleo de aportes para soldadura",
+      "version": 5,
+      "ultimo_cambio": "2017-08-04"
+    },
+    {
+      "codigo": "IP 7.5.5/3",
+      "titulo": "Operación de Puente Grúa",
+      "version": 4,
+      "ultimo_cambio": "2026-05-06"
+    },
+    {
+      "codigo": "IP 7.5.5/7",
+      "titulo": "Descarga y almacenaje de chapa",
+      "version": 3,
+      "ultimo_cambio": "2015-07-24"
+    },
+    {
+      "codigo": "IP 7.5/33",
+      "titulo": "Inspección Visual de Recipientes",
+      "version": 2,
+      "ultimo_cambio": "2018-11-12"
+    },
+    {
+      "codigo": "IP 7.5/34",
+      "titulo": "Armado de cabezales esféricos",
+      "version": 2,
+      "ultimo_cambio": "2011-05-17"
+    },
+    {
+      "codigo": "IP 7.5/35",
+      "titulo": "Soldadura Longitudinal",
+      "version": 3,
+      "ultimo_cambio": "2017-07-20"
+    },
+    {
+      "codigo": "IP 7.5/36",
+      "titulo": "Rolado de Chapas",
+      "version": 5,
+      "ultimo_cambio": "2017-08-29"
+    },
+    {
+      "codigo": "IP 7.5/37",
+      "titulo": "Soldadura Circular",
+      "version": 3,
+      "ultimo_cambio": "2017-07-20"
+    },
+    {
+      "codigo": "IP 7.5/38",
+      "titulo": "Armado del cuerpo cilíndrico, trazado, colocación y soldadura de conexiones",
+      "version": 5,
+      "ultimo_cambio": "2017-08-17"
+    },
+    {
+      "codigo": "IP 7.5/40",
+      "titulo": "Colocación de cabezales y rompeolas",
+      "version": 3,
+      "ultimo_cambio": "2012-12-05"
+    },
+    {
+      "codigo": "IP 7.5/44",
+      "titulo": "Colocación de Soportes de Plato, Tren y Caja",
+      "version": 2,
+      "ultimo_cambio": "2008-01-04"
+    },
+    {
+      "codigo": "IP 7.5/45",
+      "titulo": "Procedimiento de Mandrilado",
+      "version": 1,
+      "ultimo_cambio": "2008-11-26"
+    },
+    {
+      "codigo": "IP 7.5/48",
+      "titulo": "Colocación de Soporte de Booguie, Manotas y Regulación de ejes",
+      "version": 3,
+      "ultimo_cambio": "2017-08-09"
+    },
+    {
+      "codigo": "IP 7.5/49",
+      "titulo": "Preparación de la superficie del tanque",
+      "version": 4,
+      "ultimo_cambio": "2017-08-02"
+    },
+    {
+      "codigo": "IP 7.5/50",
+      "titulo": "Arenado / Granallado",
+      "version": 6,
+      "ultimo_cambio": "2020-05-25"
+    },
+    {
+      "codigo": "IP 7.5/51",
+      "titulo": "Preparación de la pintura y pintado del tanque",
+      "version": 8,
+      "ultimo_cambio": "2026-01-06"
+    },
+    {
+      "codigo": "IP 7.5/52",
+      "titulo": "Inertizado del recipiente",
+      "version": 3,
+      "ultimo_cambio": "2015-07-24"
+    },
+    {
+      "codigo": "IP 7.5/53",
+      "titulo": "Limpieza y Secado interior de los Recipientes",
+      "version": 1,
+      "ultimo_cambio": "2009-03-18"
+    },
+    {
+      "codigo": "IP 7.5/54",
+      "titulo": "Prueba Hidráulica de Cañerías",
+      "version": 3,
+      "ultimo_cambio": "2014-09-26"
+    },
+    {
+      "codigo": "IP 7.5/58",
+      "titulo": "Venteo del tanque y desarme de accesorios",
+      "version": 4,
+      "ultimo_cambio": "2014-09-26"
+    },
+    {
+      "codigo": "IP 7.5/69",
+      "titulo": "Calificación de Procedimientos de Soldadura",
+      "version": 5,
+      "ultimo_cambio": "2021-05-12"
+    },
+    {
+      "codigo": "IP 7.5/70",
+      "titulo": "Instrucciones para soldadores",
+      "version": 5,
+      "ultimo_cambio": "2026-05-07"
+    },
+    {
+      "codigo": "IP 7.5/71",
+      "titulo": "Instrucción de Tratamiento Termico",
+      "version": 8,
+      "ultimo_cambio": "2023-10-31"
+    },
+    {
+      "codigo": "IP 8.5.2",
+      "titulo": "Trazabilidad, Trazado y Corte de Chapas Para Recipientes y Equipos de la Industria del Gas, Petroleo y Quimica",
+      "version": 4,
+      "ultimo_cambio": "2024-11-22"
+    },
+    {
+      "codigo": "IK 7.5-72",
+      "titulo": "Tratamiento Termico Localizado",
+      "version": 2,
+      "ultimo_cambio": "2026-04-27"
+    },
+    {
+      "codigo": "IK 7-6.",
+      "titulo": "Calibración de Manómetros",
+      "version": 8,
+      "ultimo_cambio": "2026-03-18"
+    },
+    {
+      "codigo": "IK 7.6/4",
+      "titulo": "Calibracion de Cintas Metricas",
+      "version": 6,
+      "ultimo_cambio": "2026-03-18"
+    },
+    {
+      "codigo": "IK 8.2.4",
+      "titulo": "Ensayos Radiograficos",
+      "version": 8,
+      "ultimo_cambio": "2025-11-04"
+    },
+    {
+      "codigo": "IK 8.2.4/1",
+      "titulo": "Prueba Hidraulica",
+      "version": 8,
+      "ultimo_cambio": "2025-11-11"
+    },
+    {
+      "codigo": "IK 8.2.4/3",
+      "titulo": "Prueba de Fuga",
+      "version": 6,
+      "ultimo_cambio": "2026-03-18"
+    },
+    {
+      "codigo": "IK 8.2.4/4",
+      "titulo": "Ensayo de Estanqueidad",
+      "version": 1,
+      "ultimo_cambio": "2009-03-15"
+    },
+    {
+      "codigo": "IK 8.2.4/5",
+      "titulo": "Procedimiento de Ensayo Holiday",
+      "version": 2,
+      "ultimo_cambio": "2026-05-08"
+    },
+    {
+      "codigo": "IK 8.2.4/6",
+      "titulo": "Tintas Penetrantes",
+      "version": 11,
+      "ultimo_cambio": "2026-03-19"
+    },
+    {
+      "codigo": "IK 8.2.4/7",
+      "titulo": "Particulas Magneticas",
+      "version": 6,
+      "ultimo_cambio": "2018-10-24"
+    },
+    {
+      "codigo": "IK 8.2.4/8",
+      "titulo": "Ensayo de Dureza",
+      "version": 2,
+      "ultimo_cambio": "2023-09-18"
+    },
+    {
+      "codigo": "IK 8.2.4-9",
+      "titulo": "Procedimiento Prueba Neumatica",
+      "version": 1,
+      "ultimo_cambio": "2023-10-20"
+    },
+    {
+      "codigo": "IK 8.2.4-10",
+      "titulo": "Torque en Uniones Bridadas",
+      "version": 2,
+      "ultimo_cambio": "2026-06-10"
+    },
+    {
+      "codigo": "IK 8.2.4-11",
+      "titulo": "Procedimiento de Limpieza, Pasivado y Decapado",
+      "version": 1,
+      "ultimo_cambio": "2026-06-13"
+    },
+    {
+      "codigo": "IK 8.2.4/22",
+      "titulo": "Ultrasonido deChapa",
+      "version": 4,
+      "ultimo_cambio": "2026-03-30"
+    },
+    {
+      "codigo": "IK 8.2.4 /23",
+      "titulo": "Ultrasonido con Palpador Normal y Angular",
+      "version": 4,
+      "ultimo_cambio": "2026-05-19"
+    },
+    {
+      "codigo": "IK 8.2.4/24",
+      "titulo": "Prueba de válvulas de exceso de flujo y comando a distancia",
+      "version": 4,
+      "ultimo_cambio": "2017-08-29"
+    },
+    {
+      "codigo": "ITSE 4.4.6/8",
+      "titulo": "Descarga de GLP en Plantas Internas",
+      "version": 2,
+      "ultimo_cambio": "2018-11-14"
+    },
+    {
+      "codigo": "ITSE 4.4.6/9",
+      "titulo": "Investigacion de Accidentes/Incidentes",
+      "version": 10,
+      "ultimo_cambio": "2023-09-24"
+    },
+    {
+      "codigo": "ITSE 4.4.6/10",
+      "titulo": "Espacio Confinado",
+      "version": 3,
+      "ultimo_cambio": "2017-09-18"
+    },
+    {
+      "codigo": "ITSE 4.4.6/11",
+      "titulo": "Orden y Limpieza",
+      "version": 8,
+      "ultimo_cambio": "2024-11-07"
+    },
+    {
+      "codigo": "ITSE 4.4.6/13",
+      "titulo": "Trabajo en Altura",
+      "version": 3,
+      "ultimo_cambio": "2017-09-18"
+    },
+    {
+      "codigo": "ITSE 4.4.6/14",
+      "titulo": "Politica de Alcohol y Droga en el Trabajo",
+      "version": 4,
+      "ultimo_cambio": "2025-11-03"
+    },
+    {
+      "codigo": "ITSE 4.4.6/15",
+      "titulo": "Requisitos Para Ingreso de Proveedores y Contratistas",
+      "version": 6,
+      "ultimo_cambio": "2020-09-18"
+    },
+    {
+      "codigo": "ITMA 4.4.6/16",
+      "titulo": "Cercado de zona de trabajo peligroso",
+      "version": 4,
+      "ultimo_cambio": "2017-09-18"
+    },
+    {
+      "codigo": "ITSE 4.4.6/17",
+      "titulo": "Movimiento, carga y descarga de equipos especiales",
+      "version": 3,
+      "ultimo_cambio": "2020-06-16"
+    },
+    {
+      "codigo": "ITSE 4.4.6/18",
+      "titulo": "Control de Equipos y Aparatos para Izar y Metodos de Izaje",
+      "version": 5,
+      "ultimo_cambio": "2020-07-20"
+    },
+    {
+      "codigo": "ITMA 4.4.6/19",
+      "titulo": "Manejo de Residuos",
+      "version": 6,
+      "ultimo_cambio": "2020-06-09"
+    },
+    {
+      "codigo": "ITSE 4.4.6/20",
+      "titulo": "Consultorio Medico",
+      "version": 5,
+      "ultimo_cambio": "2021-09-14"
+    },
+    {
+      "codigo": "ITSE 4.4.6/21",
+      "titulo": "Normas de Seguridad para Contratistas",
+      "version": 3,
+      "ultimo_cambio": "2017-09-18"
+    },
+    {
+      "codigo": "ITMA 4.4.6/21",
+      "titulo": "Manipulacion de Productos Quimicos",
+      "version": 4,
+      "ultimo_cambio": "2022-07-20"
+    },
+    {
+      "codigo": "ITMA 4.4.6/22",
+      "titulo": "Gestion y Control de Emisiones Atmosfericas",
+      "version": 6,
+      "ultimo_cambio": "2026-04-09"
+    },
+    {
+      "codigo": "ITSE 4.4.6/23",
+      "titulo": "Control y Gestion de Puesta a Tierra de Istalaciones",
+      "version": 3,
+      "ultimo_cambio": "2015-09-01"
+    },
+    {
+      "codigo": "ITMA 4.4.6/24",
+      "titulo": "Fuente y Administracion de las Distintas Formas de Energia",
+      "version": 7,
+      "ultimo_cambio": "2024-10-16"
+    },
+    {
+      "codigo": "ITMA 4.4.6/26",
+      "titulo": "Gestion de Agua en el Proceso",
+      "version": 5,
+      "ultimo_cambio": "2019-08-21"
+    },
+    {
+      "codigo": "ITSE 4.4.6/26",
+      "titulo": "Riesgo Electrico",
+      "version": 5,
+      "ultimo_cambio": "2018-10-26"
+    },
+    {
+      "codigo": "ITSE 4.4.6/27",
+      "titulo": "Correcto Uso y Operación de Herramientas",
+      "version": 3,
+      "ultimo_cambio": "2017-09-13"
+    },
+    {
+      "codigo": "ITSE 4.4.6/28",
+      "titulo": "Maanejo y Uso de Eslingas",
+      "version": 4,
+      "ultimo_cambio": "2017-09-18"
+    },
+    {
+      "codigo": "ITMA 4.4.6/28",
+      "titulo": "Operación Planta de Tratamiento Rehabilitacion de Tanques",
+      "version": 2,
+      "ultimo_cambio": "2018-11-12"
+    },
+    {
+      "codigo": "ITSE 4.4.3/2",
+      "titulo": "Participacion y Consulta",
+      "version": 9,
+      "ultimo_cambio": "2025-08-08"
+    },
+    {
+      "codigo": "ITMA 8.1",
+      "titulo": "Analisis de Ciclo de Vida",
+      "version": 1,
+      "ultimo_cambio": "2024-07-31"
+    },
+    {
+      "codigo": "ITMA 9.1",
+      "titulo": "Calculo de Huella de Carbono",
+      "version": 1,
+      "ultimo_cambio": "2024-07-31"
+    },
+    {
+      "codigo": "ITSE 8.1",
+      "titulo": "Trabajo en Caliente - Prensado de Cabezales",
+      "version": 1,
+      "ultimo_cambio": "2026-05-05"
+    }
+  ],
+  "it_tks": [
+    {
+      "codigo": "PGP 7.5.1/2",
+      "titulo": "Plan de calidad de recipientes en serie",
+      "version": 13,
+      "ultimo_cambio": "2024-07-31"
+    },
+    {
+      "codigo": "IP 7.5/2",
+      "titulo": "Trazado y corte de discos para cabezales",
+      "version": 6,
+      "ultimo_cambio": "2015-07-24"
+    },
+    {
+      "codigo": "IP 7.5/3",
+      "titulo": "Rolado de virolas",
+      "version": 6,
+      "ultimo_cambio": "2026-06-10"
+    },
+    {
+      "codigo": "IP 7.5.3/1",
+      "titulo": "Identificacion y trazabilidad de chapas de recipientes en serie y equipos para la industria del gas petroleo y quimica",
+      "version": 7,
+      "ultimo_cambio": "2015-07-16"
+    },
+    {
+      "codigo": "IP 7.5/4",
+      "titulo": "Soldadura longitudinal para tks en serie",
+      "version": 7,
+      "ultimo_cambio": "2026-06-10"
+    },
+    {
+      "codigo": "IP 7.5/5",
+      "titulo": "Repujado de virolas",
+      "version": 7,
+      "ultimo_cambio": "2026-06-10"
+    },
+    {
+      "codigo": "IP 7.5.5-1",
+      "titulo": "¨ Almacenaje y Manipuleo de aportes para soldaduras",
+      "version": 6,
+      "ultimo_cambio": "2017-08-04"
+    },
+    {
+      "codigo": "IP 7.5.5/3",
+      "titulo": "Operación de puente grúa",
+      "version": 4,
+      "ultimo_cambio": "2026-05-06"
+    },
+    {
+      "codigo": "IP 7.5.5/5",
+      "titulo": "Empaque y carga de garrafones",
+      "version": 4,
+      "ultimo_cambio": "2015-07-24"
+    },
+    {
+      "codigo": "IP 7.5.5/6",
+      "titulo": "Carga de tanques al transportador",
+      "version": 4,
+      "ultimo_cambio": "2026-06-10"
+    },
+    {
+      "codigo": "IP 7.5.5/7",
+      "titulo": "Descarga y almacenaje de chapa",
+      "version": 4,
+      "ultimo_cambio": "2026-06-10"
+    },
+    {
+      "codigo": "IP 7.5/6",
+      "titulo": "Armado de tanques",
+      "version": 7,
+      "ultimo_cambio": "2026-06-10"
+    },
+    {
+      "codigo": "IP 7.5/7",
+      "titulo": "Soldadura circular para tks en serie",
+      "version": 7,
+      "ultimo_cambio": "2026-06-10"
+    },
+    {
+      "codigo": "IP 7.5/8",
+      "titulo": "Trazado, colocación y soldadura de conexiones (tanques)",
+      "version": 7,
+      "ultimo_cambio": "2026-06-10"
+    },
+    {
+      "codigo": "IP 7.5/9",
+      "titulo": "Trazado, colocación y soldadura de conexiones accesorios (garrafones)",
+      "version": 7,
+      "ultimo_cambio": "2026-06-10"
+    },
+    {
+      "codigo": "IP 7.5/11",
+      "titulo": "Preparación de la superficie del tanque",
+      "version": 5,
+      "ultimo_cambio": "2026-06-10"
+    },
+    {
+      "codigo": "IP 7.5/12",
+      "titulo": "Preparación y aplicación de la pintura para tks en serie",
+      "version": 8,
+      "ultimo_cambio": "2026-06-10"
+    },
+    {
+      "codigo": "IP 7.5/14",
+      "titulo": "Prensado y recorte de cabezales",
+      "version": 6,
+      "ultimo_cambio": "2026-06-10"
+    },
+    {
+      "codigo": "IP 7.5/15",
+      "titulo": "Colocación de accesorios",
+      "version": 5,
+      "ultimo_cambio": "2026-06-10"
+    },
+    {
+      "codigo": "IP 7.5/16",
+      "titulo": "Inertizado de Tanques serie y garrafones",
+      "version": 4,
+      "ultimo_cambio": "2026-06-10"
+    },
+    {
+      "codigo": "IP 7.5/18",
+      "titulo": "Funcionamiento del transportador",
+      "version": 4,
+      "ultimo_cambio": "2026-06-10"
+    },
+    {
+      "codigo": "IP 7.5/69",
+      "titulo": "Calificación de procedimientos de soldadura",
+      "version": 5,
+      "ultimo_cambio": "2021-05-12"
+    },
+    {
+      "codigo": "IP 7.5/70",
+      "titulo": "Instrucciones para soldadores",
+      "version": 5,
+      "ultimo_cambio": "2026-05-07"
+    },
+    {
+      "codigo": "IK 8.2.4/2",
+      "titulo": "Prueba hidraulica en recipientes en serie",
+      "version": 12,
+      "ultimo_cambio": "2026-03-24"
+    },
+    {
+      "codigo": "IK 8.2.4/9",
+      "titulo": "Prueba de fuga",
+      "version": 6,
+      "ultimo_cambio": "2026-03-19"
+    }
+  ],
+  "proc_gen": [
+    {
+      "codigo": "PGQ 7.5.3",
+      "titulo": "Control de la Informacion Documentada",
+      "version": 18,
+      "ultimo_cambio": "2025-11-20",
+      "area": "Calidad / Gestión General"
+    },
+    {
+      "codigo": "PGG 5.6.",
+      "titulo": "Responsabilidad de la Dirección-Revisión del Sistema Integrado",
+      "version": 11,
+      "ultimo_cambio": "2023-11-23",
+      "area": "Calidad / Gestión General"
+    },
+    {
+      "codigo": "PGG 6.3.1",
+      "titulo": "Planificacion y Gestion del Cambio",
+      "version": 2,
+      "ultimo_cambio": "2020-05-20",
+      "area": "Calidad / Gestión General"
+    },
+    {
+      "codigo": "PGR 6.2.2",
+      "titulo": "Recursos Humanos",
+      "version": 20,
+      "ultimo_cambio": "2025-10-22",
+      "area": "Calidad / Gestión General"
+    },
+    {
+      "codigo": "PGM 6.3.",
+      "titulo": "Infraestructura-Mantenimiento de Equipos",
+      "version": 24,
+      "ultimo_cambio": "2026-01-19",
+      "area": "Calidad / Gestión General"
+    },
+    {
+      "codigo": "PGV 7.2",
+      "titulo": "Procesos relacionados con el Cliente",
+      "version": 22,
+      "ultimo_cambio": "2026-01-06",
+      "area": "Calidad / Gestión General"
+    },
+    {
+      "codigo": "PGV 8.7",
+      "titulo": "Atención de Reclamos",
+      "version": 9,
+      "ultimo_cambio": "2020-09-04",
+      "area": "Calidad / Gestión General"
+    },
+    {
+      "codigo": "PGI 7.3.",
+      "titulo": "Procedimiento de Diseño y Desarrollo",
+      "version": 18,
+      "ultimo_cambio": "2022-11-14",
+      "area": "Calidad / Gestión General"
+    },
+    {
+      "codigo": "PGC 7.4.1",
+      "titulo": "Proceso de Compras",
+      "version": 25,
+      "ultimo_cambio": "2025-08-21",
+      "area": "Calidad / Gestión General"
+    },
+    {
+      "codigo": "PGP 7.5.1.-1",
+      "titulo": "Control del la Producción y Validación de los Procesos",
+      "version": 20,
+      "ultimo_cambio": "2026-07-16",
+      "area": "Calidad / Gestión General"
+    },
+    {
+      "codigo": "PGP 7.5.1.-2",
+      "titulo": "Control del la Producción y Validac. de los Procesos (Tks en serie)",
+      "version": 12,
+      "ultimo_cambio": "2019-04-10",
+      "area": "Calidad / Gestión General"
+    },
+    {
+      "codigo": "PGP 7.5.1.3",
+      "titulo": "Liberación y entrega de Producto",
+      "version": 11,
+      "ultimo_cambio": "2025-02-24",
+      "area": "Calidad / Gestión General"
+    },
+    {
+      "codigo": "PGP 7.5.1.4",
+      "titulo": "Ingreso de Vehiculos y Carga para Exportación",
+      "version": 3,
+      "ultimo_cambio": "2019-08-26",
+      "area": "Calidad / Gestión General"
+    },
+    {
+      "codigo": "PGP 7.5.1-5",
+      "titulo": "Trabajo en Talleres Externos",
+      "version": 4,
+      "ultimo_cambio": "2023-07-18",
+      "area": "Calidad / Gestión General"
+    },
+    {
+      "codigo": "PGP 7.5.1-6",
+      "titulo": "Procedimiento de Preservacion de Equipos a Presion",
+      "version": 1,
+      "ultimo_cambio": "2019-12-03",
+      "area": "Calidad / Gestión General"
+    },
+    {
+      "codigo": "PGP 7.5.1-7",
+      "titulo": "Proceso de Tanques en Serie no Estandar",
+      "version": 2,
+      "ultimo_cambio": "2026-06-10",
+      "area": "Calidad / Gestión General"
+    },
+    {
+      "codigo": "PGK 7.6.",
+      "titulo": "Control de los Dispositivos de Seguim. y de Medición",
+      "version": 21,
+      "ultimo_cambio": "2025-03-07",
+      "area": "Calidad / Gestión General"
+    },
+    {
+      "codigo": "PGV 8.2.1",
+      "titulo": "Encuesta Satisfacción del Cliente",
+      "version": 12,
+      "ultimo_cambio": "2023-04-05",
+      "area": "Calidad / Gestión General"
+    },
+    {
+      "codigo": "PGQ 8.2.2.",
+      "titulo": "Auditorias Internas",
+      "version": 16,
+      "ultimo_cambio": "2023-07-13",
+      "area": "Calidad / Gestión General"
+    },
+    {
+      "codigo": "PGK 8.2.4.`",
+      "titulo": "Seguimiento y Medición del Producto",
+      "version": 12,
+      "ultimo_cambio": "2023-10-23",
+      "area": "Calidad / Gestión General"
+    },
+    {
+      "codigo": "PGQ 8.3.",
+      "titulo": "Control No Conformidades y Acciones Correctivas",
+      "version": 13,
+      "ultimo_cambio": "2023-07-17",
+      "area": "Calidad / Gestión General"
+    },
+    {
+      "codigo": "PGQ 4.2.3-1",
+      "titulo": "Admin istracion y Gestion de IT",
+      "version": 8,
+      "ultimo_cambio": "2026-07-17",
+      "area": "Calidad / Gestión General"
+    },
+    {
+      "codigo": "ITQ 4.2.3/2",
+      "titulo": "Control de documentos externos",
+      "version": 7,
+      "ultimo_cambio": "2017-10-30",
+      "area": "Calidad / Gestión General"
+    },
+    {
+      "codigo": "IC 7.4.1.",
+      "titulo": "Recepción y control de Materiales",
+      "version": 19,
+      "ultimo_cambio": "2025-05-28",
+      "area": "Calidad / Gestión General"
+    },
+    {
+      "codigo": "PGI 7.3.6",
+      "titulo": "Recepcion y Liberacion de Instrumentacion y Control",
+      "version": 4,
+      "ultimo_cambio": "2022-11-18",
+      "area": "Calidad / Gestión General"
+    },
+    {
+      "codigo": "PGQ 10.2.3",
+      "titulo": "Aplicación de Analisis de Modos de Fallas y sus Efectos",
+      "version": 1,
+      "ultimo_cambio": "2016-09-01",
+      "area": "Calidad / Gestión General"
+    },
+    {
+      "codigo": "PGI 7.3.6-1",
+      "titulo": "Calculo, Consumo y Materiales de Tracing Electrico",
+      "version": 2,
+      "ultimo_cambio": "2018-11-05",
+      "area": "Calidad / Gestión General"
+    },
+    {
+      "codigo": "PGI 7.3.6-2",
+      "titulo": "Precomisionado en Tracing Electrico e Instrumentacion y Control",
+      "version": 3,
+      "ultimo_cambio": "2022-11-18",
+      "area": "Calidad / Gestión General"
+    },
+    {
+      "codigo": "PGP 7.5.4",
+      "titulo": "Propiedad del Cliente",
+      "version": 3,
+      "ultimo_cambio": "2017-01-31",
+      "area": "Calidad / Gestión General"
+    },
+    {
+      "codigo": "PGP 7.5.1-10",
+      "titulo": "Carga y Traslado de Equipos Paquetizados",
+      "version": 1,
+      "ultimo_cambio": "2018-10-31",
+      "area": "Calidad / Gestión General"
+    },
+    {
+      "codigo": "PGP 7.5.1.8",
+      "titulo": "Actividades del Lider de Proyecto",
+      "version": 3,
+      "ultimo_cambio": "2025-10-06",
+      "area": "Calidad / Gestión General"
+    },
+    {
+      "codigo": "PGQ 6.1",
+      "titulo": "Tratamiento de Riesgos y Oportunidades",
+      "version": 2,
+      "ultimo_cambio": "2022-11-17",
+      "area": "Calidad / Gestión General"
+    },
+    {
+      "codigo": "PGK 8.1",
+      "titulo": "Actividades del Area de Gammagrafia",
+      "version": 2,
+      "ultimo_cambio": "2025-10-17",
+      "area": "Calidad / Gestión General"
+    },
+    {
+      "codigo": "PGMA 4.4.6",
+      "titulo": "Identificacion y Evaluacion de Aspectos e Impactos Ambientales",
+      "version": 9,
+      "ultimo_cambio": "2026-05-30",
+      "area": "Ambiente / Seguridad e Higiene"
+    },
+    {
+      "codigo": "PGSE 4.3.1",
+      "titulo": "Analisis y Evaluacion de Riesgo",
+      "version": 9,
+      "ultimo_cambio": "2024-11-15",
+      "area": "Ambiente / Seguridad e Higiene"
+    },
+    {
+      "codigo": "PGMS 7.4",
+      "titulo": "Comunicación Interna y Externa",
+      "version": 4,
+      "ultimo_cambio": "2020-05-22",
+      "area": "Ambiente / Seguridad e Higiene"
+    },
+    {
+      "codigo": "PGMS 4.3.2",
+      "titulo": "Identificacion, Analisis, Evaluacion y Registro de Requisitos legales y de Otro Tipo",
+      "version": 11,
+      "ultimo_cambio": "2026-05-30",
+      "area": "Ambiente / Seguridad e Higiene"
+    },
+    {
+      "codigo": "PGMS 4.5.1",
+      "titulo": "Seguimiento y Medicion de Desempeño",
+      "version": 14,
+      "ultimo_cambio": "2025-11-12",
+      "area": "Ambiente / Seguridad e Higiene"
+    },
+    {
+      "codigo": "PGMS 4.5.2",
+      "titulo": "Evaluacion de Cumplimiento Legal",
+      "version": 5,
+      "ultimo_cambio": "2025-09-08",
+      "area": "Ambiente / Seguridad e Higiene"
+    },
+    {
+      "codigo": "PGMS 4.4.6",
+      "titulo": "Control Operativo",
+      "version": 5,
+      "ultimo_cambio": "2026-04-09",
+      "area": "Ambiente / Seguridad e Higiene"
+    },
+    {
+      "codigo": "PGSE 4.4.6/13",
+      "titulo": "Elementos de Proteccion Personal",
+      "version": 5,
+      "ultimo_cambio": "2020-05-30",
+      "area": "Ambiente / Seguridad e Higiene"
+    },
+    {
+      "codigo": "PGSE 4.4.7",
+      "titulo": "Plan de Emergencia",
+      "version": 11,
+      "ultimo_cambio": "2020-07-03",
+      "area": "Ambiente / Seguridad e Higiene"
+    },
+    {
+      "codigo": "PGMS 4.4.6/1",
+      "titulo": "Plan contra Contingencias Ambientales",
+      "version": 1,
+      "ultimo_cambio": "2026-04-09",
+      "area": "Ambiente / Seguridad e Higiene"
+    }
+  ],
+  "registros": [
+    {
+      "codigo": "F-001",
+      "titulo": "DESCRIPCION DE PUESTO",
+      "procedimiento": "PGR 6.2.2",
+      "version": 8,
+      "vigencia": "2013-06-28",
+      "archivado": "RRHH",
+      "retencion": "1 AÑO",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-002",
+      "titulo": "REQUERIMIENTO DE PERSONAL",
+      "procedimiento": "PGR 6.2.2",
+      "version": 9,
+      "vigencia": "2013-06-28",
+      "archivado": "RRHH",
+      "retencion": "1 AÑO",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-003",
+      "titulo": "PROGRAMA DE INDUCCION",
+      "procedimiento": "PGR 6.2.2",
+      "version": 9,
+      "vigencia": "2013-06-28",
+      "archivado": "RRHH",
+      "retencion": "SIEMPRE",
+      "disposicion": "SE ARCHIVA"
+    },
+    {
+      "codigo": "F-004",
+      "titulo": "NECESIDADES DE CAPACITACION",
+      "procedimiento": "PGR 6.2.2",
+      "version": 8,
+      "vigencia": "2013-06-28",
+      "archivado": "RRHH",
+      "retencion": "3 AÑOS",
+      "disposicion": "ELIMINAR DEL SISTEMA"
+    },
+    {
+      "codigo": "F-005",
+      "titulo": "PROGRAMA ANUAL DE CAPACITACION",
+      "procedimiento": "PGR 6.2.2",
+      "version": 9,
+      "vigencia": "2026-04-28",
+      "archivado": "RRHH",
+      "retencion": "3 AÑOS",
+      "disposicion": "ELIMINAR DEL SISTEMA"
+    },
+    {
+      "codigo": "F-006",
+      "titulo": "SOLICITUD DE CAPACITACION",
+      "procedimiento": "PGR 6.2.2",
+      "version": 9,
+      "vigencia": "2013-06-28",
+      "archivado": "RRHH",
+      "retencion": "3 AÑOS",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-007",
+      "titulo": "LISTADO DE PRESENTES",
+      "procedimiento": "PGR 6.2.2",
+      "version": 9,
+      "vigencia": "2013-06-28",
+      "archivado": "RRHH",
+      "retencion": "3 AÑOS",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-008",
+      "titulo": "PLANILLA DE POLIVALENCIA",
+      "procedimiento": "PGR 6.2.2",
+      "version": 8,
+      "vigencia": "2013-06-28",
+      "archivado": "RRHH",
+      "retencion": "1 AÑO",
+      "disposicion": "ELIMINAR DEL SISTEMA"
+    },
+    {
+      "codigo": "F-009",
+      "titulo": "REGISTRO CALIBRACION DE HORNOS",
+      "procedimiento": "PGK 7.6",
+      "version": 1,
+      "vigencia": "2016-09-21",
+      "archivado": "CONTROL DE CALIDAD",
+      "retencion": "3 AÑOS",
+      "disposicion": "SISTEMA"
+    },
+    {
+      "codigo": "F-010",
+      "titulo": "HOJA DE DATOS",
+      "procedimiento": "PGI 7.3",
+      "version": 12,
+      "vigencia": "2021-06-22",
+      "archivado": "INGENIERIA",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-011",
+      "titulo": "SOLICITUD DE REPARACIONES",
+      "procedimiento": "PGM 6.3",
+      "version": 10,
+      "vigencia": "2014-07-15",
+      "archivado": "MANTENIMIENTO",
+      "retencion": "2 MESES",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-012",
+      "titulo": "MANTENIMIENTO PREVENTIVO VEHICULAR",
+      "procedimiento": "PGM 6.3",
+      "version": 9,
+      "vigencia": "2014-07-15",
+      "archivado": "MANTENIMIENTO",
+      "retencion": "SIEMPRE",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-013",
+      "titulo": "PROGRAMA DE MANTENIMIENTO PREVENTIVO",
+      "procedimiento": "PGM 6.3",
+      "version": 10,
+      "vigencia": "2014-07-15",
+      "archivado": "MANTENIMIENTO",
+      "retencion": "1 AÑO",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-014",
+      "titulo": "INSPECCION CONTROL A MONORRIELES",
+      "procedimiento": "PGM 6.3",
+      "version": 10,
+      "vigencia": "2014-07-15",
+      "archivado": "MANTENIMIENTO",
+      "retencion": "1 AÑO",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-015",
+      "titulo": "PRUEBA VALVULAS DE SEGURIDAD",
+      "procedimiento": "IP 7.5/58",
+      "version": 4,
+      "vigencia": "2008-03-10",
+      "archivado": "PRODUCCION",
+      "retencion": "5 AÑOS",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-016",
+      "titulo": "ORDEN DE DESPACHO PARA ALMACENES",
+      "procedimiento": "PGP 7.5.1/3",
+      "version": 9,
+      "vigencia": "2014-01-31",
+      "archivado": "ALMACENES",
+      "retencion": "2 AÑOS",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-017",
+      "titulo": "ORDEN DE TRABAJO",
+      "procedimiento": "PGV 7.2",
+      "version": 12,
+      "vigencia": "2014-03-17",
+      "archivado": "COMERCIAL",
+      "retencion": "2 AÑOS",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-018",
+      "titulo": "MODIFICACION DE ORDEN DE TRABAJO",
+      "procedimiento": "PGV 7.2",
+      "version": 12,
+      "vigencia": "2014-03-17",
+      "archivado": "COMERCIAL",
+      "retencion": "2 AÑOS",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-019",
+      "titulo": "PANEL DE RECLAMO",
+      "procedimiento": "PGV 7.2",
+      "version": 12,
+      "vigencia": "2014-03-17",
+      "archivado": "COMERCIAL",
+      "retencion": "2 AÑOS",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-020",
+      "titulo": "ENCUESTA DE SATISFACCIÓN DE CLIENTE",
+      "procedimiento": "PGV 7.2",
+      "version": 12,
+      "vigencia": "2014-03-17",
+      "archivado": "COMERCIAL",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-021",
+      "titulo": "PEDIDO INTERNO DE MATERIALES",
+      "procedimiento": "PGC 7.4.1",
+      "version": 12,
+      "vigencia": "2016-09-26",
+      "archivado": "COMPRAS",
+      "retencion": "2 AÑOS",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-022",
+      "titulo": "PEDIDO DE COTIZACION",
+      "procedimiento": "PGC 7.4.1",
+      "version": 12,
+      "vigencia": "2014-01-31",
+      "archivado": "COMPRAS",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-023",
+      "titulo": "ORDEN DE COMPRA",
+      "procedimiento": "PGC 7.4.1",
+      "version": 12,
+      "vigencia": "2014-01-31",
+      "archivado": "COMPRAS",
+      "retencion": "3 AÑOS",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-024",
+      "titulo": "CONTROL DE RECEPCION DE MATERIALES",
+      "procedimiento": "PGC 7.4.1",
+      "version": 13,
+      "vigencia": "2014-01-31",
+      "archivado": "COMPRAS",
+      "retencion": "3 AÑOS",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-25",
+      "titulo": "ORDEN DE REPARACION",
+      "procedimiento": "PGM 6.3",
+      "version": 9,
+      "vigencia": "2014-03-28",
+      "archivado": "MANTENIMIENTO",
+      "retencion": "1 AÑO",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-026",
+      "titulo": "ORDEN DE CORTE",
+      "procedimiento": "IP 8.5.2",
+      "version": 9,
+      "vigencia": "2014-01-30",
+      "archivado": "PRODUCCION",
+      "retencion": "SIEMPRE",
+      "disposicion": "PAPEL"
+    },
+    {
+      "codigo": "F-027",
+      "titulo": "AMFE",
+      "procedimiento": "PGQ 10.2.3",
+      "version": 1,
+      "vigencia": "2016-09-01",
+      "archivado": "SIG",
+      "retencion": "",
+      "disposicion": ""
+    },
+    {
+      "codigo": "F-028",
+      "titulo": "PARTES DIARIOS DE PRODUCCIÓN",
+      "procedimiento": "PGP 7.5.1/1",
+      "version": 12,
+      "vigencia": "2014-01-30",
+      "archivado": "PRODUCCION",
+      "retencion": "3 MESES",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-029",
+      "titulo": "DOCUMENTOS DE PROVEEDORES",
+      "procedimiento": "PGC 7.4.1",
+      "version": 1,
+      "vigencia": "2023-01-10",
+      "archivado": "COMPRAS",
+      "retencion": "1 AÑO",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-030",
+      "titulo": "ORDEN DE CORTE PARA VIROLAS",
+      "procedimiento": "PGP 7.5.1/2",
+      "version": 9,
+      "vigencia": "2013-03-08",
+      "archivado": "PRODUCCION",
+      "retencion": "SIEMPRE",
+      "disposicion": "PAPEL"
+    },
+    {
+      "codigo": "F-031",
+      "titulo": "OEDEN DE CORTE PARA DISCOS",
+      "procedimiento": "PGP 7.5.1/2",
+      "version": 9,
+      "vigencia": "2013-03-08",
+      "archivado": "PRODUCCION",
+      "retencion": "SIEMPRE",
+      "disposicion": "PAPEL"
+    },
+    {
+      "codigo": "F-032",
+      "titulo": "INFORME DE AUDITORIA",
+      "procedimiento": "PGQ 8.2.2",
+      "version": 1,
+      "vigencia": "2017-11-30",
+      "archivado": "SIG",
+      "retencion": "1 AÑO",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-033",
+      "titulo": "CHECK LIST INSPECCION FINAL SEMIRREMOLQUE",
+      "procedimiento": "PGK 8.2.4",
+      "version": 8,
+      "vigencia": "2014-02-10",
+      "archivado": "CALIDAD",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-034",
+      "titulo": "CONTROL DE INSPECCION Y DESPACHO DE TANQUES REHABILITADOS",
+      "procedimiento": "PGK 8.2.4",
+      "version": 8,
+      "vigencia": "2014-04-10",
+      "archivado": "CALIDAD",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-035",
+      "titulo": "LISTADO DE NUMEROS INTERNOS DE CHAPAS",
+      "procedimiento": "IP 8.5.2",
+      "version": 3,
+      "vigencia": "2024-11-22",
+      "archivado": "PRODUCCION",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-036",
+      "titulo": "LISTADO DE REGISTROS",
+      "procedimiento": "PGQ 7.5.3",
+      "version": 7,
+      "vigencia": "2018-11-09",
+      "archivado": "SIG",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-037",
+      "titulo": "PRUEBA HIDRAULICA DE MANGUERAS",
+      "procedimiento": "IK 8.2.4.1",
+      "version": 7,
+      "vigencia": "2024-07-30",
+      "archivado": "CALIDAD",
+      "retencion": "5 A 10 AÑOS",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-038",
+      "titulo": "PROGRAMA ANUAL DE AUDITORIAS",
+      "procedimiento": "PGQ 8.2.2",
+      "version": 11,
+      "vigencia": "2011-08-26",
+      "archivado": "SIG",
+      "retencion": "1 AÑO",
+      "disposicion": "RECICLAR"
+    },
+    {
+      "codigo": "F-039",
+      "titulo": "OFERTA TECNICA, OFERTA ECONOMICA",
+      "procedimiento": "PGV 7.2",
+      "version": 12,
+      "vigencia": "2014-03-17",
+      "archivado": "COMERCIAL",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-040",
+      "titulo": "INFORME DE NO CONFORMIDADES Y ACCIONES CORRECTIVAS",
+      "procedimiento": "PGQ 8.3",
+      "version": 11,
+      "vigencia": "2019-04-08",
+      "archivado": "SIG",
+      "retencion": "18 MESES",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-041",
+      "titulo": "REGISTRO DE NO CONFORMIDADES Y ACCIONES CORRECTIVAS",
+      "procedimiento": "PGQ 8.3",
+      "version": 8,
+      "vigencia": "2011-10-25",
+      "archivado": "SIG",
+      "retencion": "18 MESES",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-042",
+      "titulo": "DOCUMENTOS EXTERNOS",
+      "procedimiento": "IQ 4.2.3/2",
+      "version": 8,
+      "vigencia": "2016-08-20",
+      "archivado": "SIG",
+      "retencion": "2 AÑOS",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-043",
+      "titulo": "REGISTRO CAMBIO DE FILTROS DE ARENADO",
+      "procedimiento": "PGM 6.3",
+      "version": 9,
+      "vigencia": "2014-03-28",
+      "archivado": "MANTENIMIENTO",
+      "retencion": "SIEMPRE",
+      "disposicion": "PAPEL"
+    },
+    {
+      "codigo": "F-044",
+      "titulo": "REGISTRO DE CALIBRACION DE MANOMETROS",
+      "procedimiento": "IK 7.6",
+      "version": 7,
+      "vigencia": "2014-04-29",
+      "archivado": "CALIDAD",
+      "retencion": "18 MESES",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-045",
+      "titulo": "FORMULARIO DE INCIDENTES Y ACCIDENTES",
+      "procedimiento": "ITSE 4.4.6/9",
+      "version": 3,
+      "vigencia": "2013-09-02",
+      "archivado": "SEGURIDAD E HIGIENE",
+      "retencion": "18 MESES",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-046",
+      "titulo": "ESTADO DE CALIBRACION DE LOS MANOMETROS",
+      "procedimiento": "IK 7.6",
+      "version": 7,
+      "vigencia": "2014-04-29",
+      "archivado": "CALIDAD",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-047",
+      "titulo": "INSPECCION FINAL TANQUES GRANELEROS",
+      "procedimiento": "PGK 8.2.4",
+      "version": 8,
+      "vigencia": "2014-04-10",
+      "archivado": "CALIDAD",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-048",
+      "titulo": "RECEPCION, REGISTRO Y VERIFICACIÓN DE CINTAS METRICAS",
+      "procedimiento": "PGK 7.6",
+      "version": 15,
+      "vigencia": "2015-10-07",
+      "archivado": "CALIDAD",
+      "retencion": "24 MESES",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-049",
+      "titulo": "PLAN ANUAL DE CAPACITACIONES SST Y MA",
+      "procedimiento": "",
+      "version": 1,
+      "vigencia": "2025-11-11",
+      "archivado": "SEGURIDAD E HIGIENE",
+      "retencion": "12 MESES",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-050",
+      "titulo": "CHECK LIST RECIPIENTES EN SERIE REHABILITADOS",
+      "procedimiento": "PGP 7.5.1/2",
+      "version": 9,
+      "vigencia": "2014-03-08",
+      "archivado": "PRODUCCION",
+      "retencion": "SIEMPRE",
+      "disposicion": "PAPEL"
+    },
+    {
+      "codigo": "F-051",
+      "titulo": "PLANILLA DE ENTREGA DE ELEMENTOS DE PROTECCION PERSONAL",
+      "procedimiento": "PGSE 4.4.6/13",
+      "version": 1,
+      "vigencia": "2011-05-30",
+      "archivado": "ALMACENES",
+      "retencion": "SIEMPRE",
+      "disposicion": "ARCHIVAR"
+    },
+    {
+      "codigo": "F-052",
+      "titulo": "PLAN DE CALIDAD TANQUES EN SERIE",
+      "procedimiento": "PGP 7.5.1/2",
+      "version": 12,
+      "vigencia": "2020-06-15",
+      "archivado": "CALIDAD",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-053",
+      "titulo": "CHECK LIST DESPACHO TANQUES EN SERIE",
+      "procedimiento": "PGP 7.5.1/2",
+      "version": 9,
+      "vigencia": "2013-03-08",
+      "archivado": "PRODUCCION",
+      "retencion": "SIEMPRE",
+      "disposicion": "PAPEL"
+    },
+    {
+      "codigo": "F-054",
+      "titulo": "PLANILLA DE CAPACITACION INTERNA",
+      "procedimiento": "PGR 6.2.2",
+      "version": 9,
+      "vigencia": "2014-09-18",
+      "archivado": "RRHH",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-055",
+      "titulo": "CONTROL DE PINTURA",
+      "procedimiento": "IP 7.5/51",
+      "version": 5,
+      "vigencia": "2014-02-25",
+      "archivado": "CALIDAD",
+      "retencion": "5/10 AÑOS",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-055/1",
+      "titulo": "MEDICION DE ESPESORES",
+      "procedimiento": "IP 7.5/51",
+      "version": 5,
+      "vigencia": "2014-02-25",
+      "archivado": "CALIDAD",
+      "retencion": "5/10 AÑOS",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-056",
+      "titulo": "ANALISIS DE RIESGOS DEPARTAMENTALES",
+      "procedimiento": "PGQ 6.1",
+      "version": 2,
+      "vigencia": "2020-09-02",
+      "archivado": "SIG",
+      "retencion": "1 AÑO",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-057",
+      "titulo": "REGISTRO CONTROL AIRE COMPRIMIDO",
+      "procedimiento": "PGMS 4.5.1",
+      "version": 4,
+      "vigencia": "2013-11-05",
+      "archivado": "SEGURIDAD E HIGIENE",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-058",
+      "titulo": "OBJETIVOS DEL SISTEMA DE GESTION",
+      "procedimiento": "PGG 5.6",
+      "version": 1,
+      "vigencia": "2017-11-09",
+      "archivado": "SIG",
+      "retencion": "1 AÑO",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-059",
+      "titulo": "PLAN DE INSPECCION Y ENSAYO",
+      "procedimiento": "PGP 7.5.5/1",
+      "version": 12,
+      "vigencia": "2014-01-30",
+      "archivado": "CALIDAD",
+      "retencion": "5/10 AÑOS",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-060",
+      "titulo": "EVALUACION DE COMPETENCIAS",
+      "procedimiento": "PGR 6.2.2",
+      "version": 1,
+      "vigencia": "2018-08-22",
+      "archivado": "RRHH",
+      "retencion": "18 MESES",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-061",
+      "titulo": "RESECADO DE CONSUMIBLES",
+      "procedimiento": "IC 7.4.1",
+      "version": 10,
+      "vigencia": "2012-08-13",
+      "archivado": "ALMACENES",
+      "retencion": "3 AÑOS",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-062",
+      "titulo": "FORMULARIO DE REPARACION DE MAQUINAS",
+      "procedimiento": "PGM 6.3",
+      "version": 9,
+      "vigencia": "2014-07-15",
+      "archivado": "MANTENIMIENTO",
+      "retencion": "2 AÑOS",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-063",
+      "titulo": "ANULACION ORDEN DETRABAJO",
+      "procedimiento": "PGV 7.2",
+      "version": 12,
+      "vigencia": "2014-03-07",
+      "archivado": "COMERCIAL",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-064",
+      "titulo": "PARTICULAS MAGNETICAS",
+      "procedimiento": "IK 8.2.4/7",
+      "version": 5,
+      "vigencia": "2014-04-15",
+      "archivado": "CALIDAD",
+      "retencion": "5/10 AÑOS",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-065",
+      "titulo": "ANALISIS DE RIESGO",
+      "procedimiento": "PGSE 4.3.1",
+      "version": 3,
+      "vigencia": "2011-09-22",
+      "archivado": "SEGURIDAD E HIGIENE",
+      "retencion": "1 AÑO",
+      "disposicion": "RECICLAR"
+    },
+    {
+      "codigo": "F-066",
+      "titulo": "EVALUACION DE ASPECTOS E IMPACTOS",
+      "procedimiento": "PGMA 4.4.6",
+      "version": 4,
+      "vigencia": "2021-04-01",
+      "archivado": "SIG",
+      "retencion": "1 AÑO",
+      "disposicion": "RECICLAR"
+    },
+    {
+      "codigo": "F-067",
+      "titulo": "INTERACCIÓN DE LOS PROCESOS",
+      "procedimiento": "MANUAL",
+      "version": 1,
+      "vigencia": "2015-08-24",
+      "archivado": "SIG",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-068",
+      "titulo": "CHECK LIST AUTOELEVADORES",
+      "procedimiento": "",
+      "version": 2,
+      "vigencia": null,
+      "archivado": "S&H",
+      "retencion": "30 DIAS",
+      "disposicion": "PAPEL"
+    },
+    {
+      "codigo": "F-069",
+      "titulo": "PLANIFICACION Y GESTION DEL CAMBIO",
+      "procedimiento": "PGG 6.3.1",
+      "version": 1,
+      "vigencia": "2017-11-08",
+      "archivado": "SIG",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-070",
+      "titulo": "PLAN DE MONITOREO DE SEGURIDAD",
+      "procedimiento": "PGSE 4.3.1/1",
+      "version": 2,
+      "vigencia": "2011-07-05",
+      "archivado": "SIG",
+      "retencion": "1 AÑO",
+      "disposicion": "RECICLAR"
+    },
+    {
+      "codigo": "F-071",
+      "titulo": "PLAN MONITOREO AMBIENTAL",
+      "procedimiento": "PGMA 4.4.6",
+      "version": 3,
+      "vigencia": "2014-04-15",
+      "archivado": "SIG",
+      "retencion": "1 AÑO",
+      "disposicion": "RECICLAR"
+    },
+    {
+      "codigo": "F-072",
+      "titulo": "INFORME DE LIQUIDOS PENETRANTES",
+      "procedimiento": "IK 8.2.4/6",
+      "version": 8,
+      "vigencia": "2010-10-15",
+      "archivado": "CALIDAD",
+      "retencion": "5/10 AÑOS",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-073",
+      "titulo": "TOPOLOGIA RED SICA",
+      "procedimiento": "PGQ 4.2.3-1",
+      "version": 1,
+      "vigencia": "2024-11-21",
+      "archivado": "SISTEMAS",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-074",
+      "titulo": "INSPECCION DE ARNES",
+      "procedimiento": "ITSE 4.4.6/13",
+      "version": 4,
+      "vigencia": "2026-05-12",
+      "archivado": "SEGURIDAD E HIGIENE",
+      "retencion": "1 AÑO",
+      "disposicion": "RECICLAR"
+    },
+    {
+      "codigo": "F-075",
+      "titulo": "CONTROL DE VALORES DE SOLDADORAS",
+      "procedimiento": "PGM 6.3",
+      "version": 11,
+      "vigencia": "2018-11-09",
+      "archivado": "MANTENIMIENTO",
+      "retencion": "5 AÑOS",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-076",
+      "titulo": "INSPECCION DE ESLINGAS",
+      "procedimiento": "ITSE 4.4.6/28",
+      "version": 4,
+      "vigencia": "2026-05-12",
+      "archivado": "SEGURIDAD E HIGIENE",
+      "retencion": "1 AÑO",
+      "disposicion": "RECICLAR"
+    },
+    {
+      "codigo": "F-077",
+      "titulo": "NOTIFICACION DE CONTROLES REALIZADOS",
+      "procedimiento": "PGP 7.5.5/1",
+      "version": 12,
+      "vigencia": "2014-04-10",
+      "archivado": "CALIDAD",
+      "retencion": "18 MESES",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-078",
+      "titulo": "REGISTRO DE CONTROL DE STOCK",
+      "procedimiento": "IC 7.4.1",
+      "version": 10,
+      "vigencia": "2015-08-11",
+      "archivado": "ALMACENES",
+      "retencion": "1 AÑO",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-079",
+      "titulo": "CONTROL DE VALORES DE TEMPERATURA DE HORNOS PORTATILES PORTAELECTRODOS",
+      "procedimiento": "PGM 6.3",
+      "version": 10,
+      "vigencia": "2015-03-05",
+      "archivado": "MANTENIMIENTO",
+      "retencion": "2 AÑOS",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-080",
+      "titulo": "ORDEN DE REVENTA",
+      "procedimiento": "PGV 7.2",
+      "version": 12,
+      "vigencia": "2014-03-17",
+      "archivado": "COMERCIAL",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-081",
+      "titulo": "CONTROL DE DOCUMENTOS",
+      "procedimiento": "PGQ 7.5.3",
+      "version": 3,
+      "vigencia": "2013-11-06",
+      "archivado": "SIG",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-082",
+      "titulo": "CONTROL DE TABLEROS DE PLANTA",
+      "procedimiento": "PGM 6.3",
+      "version": 3,
+      "vigencia": "2015-03-09",
+      "archivado": "MANTENIMIENTO",
+      "retencion": "1 AÑO",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-083",
+      "titulo": "CONTROL DE PERDIDAS DE AIRE",
+      "procedimiento": "PGM 6.3",
+      "version": 2,
+      "vigencia": "2018-10-29",
+      "archivado": "MANTENIMIENTO",
+      "retencion": "6 MESES",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-084",
+      "titulo": "LISTADO DE DOCUMENTOS",
+      "procedimiento": "PGI 7.3",
+      "version": 1,
+      "vigencia": "2015-09-15",
+      "archivado": "INGENIERIA",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-085",
+      "titulo": "PLAN DE CALIDAD ESTANDART",
+      "procedimiento": "PGP 7.5.1/1",
+      "version": 1,
+      "vigencia": "2017-11-01",
+      "archivado": "CONTROL DE CALIDAD",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-086",
+      "titulo": "CHECK LIST AUDITORIAS INTERNAS",
+      "procedimiento": "PGQ 8.2.2",
+      "version": 1,
+      "vigencia": "2017-11-30",
+      "archivado": "SIG",
+      "retencion": "1 AÑO",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-087",
+      "titulo": "REMITO ENVIO DE DOCUMENTACION",
+      "procedimiento": "PGI 7.3",
+      "version": 1,
+      "vigencia": "2015-09-15",
+      "archivado": "INGENIERIA",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-088",
+      "titulo": "CONTROL DE RECEPCION DE RECIPIENTES",
+      "procedimiento": "PGP 7.5.4",
+      "version": 1,
+      "vigencia": "2017-01-05",
+      "archivado": "PRODUCCION",
+      "retencion": "",
+      "disposicion": ""
+    },
+    {
+      "codigo": "F-089",
+      "titulo": "REGISTRO RECEPCION Y LIBERACION DE INSTRUMENTOS",
+      "procedimiento": "PGI 7.3.6",
+      "version": 2,
+      "vigencia": "2016-07-28",
+      "archivado": "INGENIERIA",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-090",
+      "titulo": "REGISTRO PRUEBAS DE ACEPTACION EN FABRICA",
+      "procedimiento": "PGI 7.3.6-2",
+      "version": 1,
+      "vigencia": "2016-09-20",
+      "archivado": "INGENIERIA",
+      "retencion": "6 MESES",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-091",
+      "titulo": "CONTROL DE INGRESOS SICA (DOCUMENTACION)",
+      "procedimiento": "ITSE 4.4.6/15",
+      "version": 1,
+      "vigencia": "2017-12-27",
+      "archivado": "GUARDIA",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-092",
+      "titulo": "EETIQUETA DE MANTENIMIENTO PREVENTIVO",
+      "procedimiento": "PGM 6.3",
+      "version": 1,
+      "vigencia": "2016-07-27",
+      "archivado": "MANTENIMIENTO",
+      "retencion": "FRECUENCIA DE MANTENIMIENTO",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-093",
+      "titulo": "TRAZADO Y COLOCACION DE CONEXIONES",
+      "procedimiento": "IP 7.5.3/1",
+      "version": 1,
+      "vigencia": "2016-10-26",
+      "archivado": "PRODUCCION",
+      "retencion": "",
+      "disposicion": ""
+    },
+    {
+      "codigo": "F-094",
+      "titulo": "REGISTRO ENTREGA DE HERRAMIENTAS",
+      "procedimiento": "IC 7.4.1",
+      "version": 1,
+      "vigencia": "2015-08-24",
+      "archivado": "ALMACENES",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-095",
+      "titulo": "MATERIAL NO CONFORME",
+      "procedimiento": "IC 7.4.1",
+      "version": 1,
+      "vigencia": "2015-08-24",
+      "archivado": "ALMACENES",
+      "retencion": "1 AÑO",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-096",
+      "titulo": "REGISTRO DE PH DE RECIPIENTES EN SERIE",
+      "procedimiento": "IK 8.2.4/2",
+      "version": 1,
+      "vigencia": "2017-08-11",
+      "archivado": "PRODUCCION",
+      "retencion": "1 AÑO",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-097",
+      "titulo": "MATRIZ DE COMUNICACIÓN",
+      "procedimiento": "PGR 6.2.2",
+      "version": 4,
+      "vigencia": "2022-07-14",
+      "archivado": "RRHH",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-098",
+      "titulo": "PLAN DE ACION COMITÉ MIXTO DE SEGURIDAD",
+      "procedimiento": "ITSE 4.4.3-2",
+      "version": 1,
+      "vigencia": "2018-11-22",
+      "archivado": "S&h",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-098-1",
+      "titulo": "PLAN DE ACCION Y SEGUIMIENTO DE MEDICIONES, ESTUDIOS Y CONTROLES",
+      "procedimiento": "PGMS 4.5.1",
+      "version": 2,
+      "vigencia": "2020-05-30",
+      "archivado": "S & H",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-099",
+      "titulo": "AVISO DE FALTAS EPP",
+      "procedimiento": "PGSE 4.4.6/13",
+      "version": 1,
+      "vigencia": "2019-03-19",
+      "archivado": "S & H",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-100",
+      "titulo": "SELECCIÓN DE PROVEEDORES",
+      "procedimiento": "PGC 7.4.1",
+      "version": 2,
+      "vigencia": "2023-01-10",
+      "archivado": "COMPRAS",
+      "retencion": "1 AÑO",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-100/1",
+      "titulo": "EVALUACION DE PROVEEDORES DE TERCEROS Y SERVICIOS",
+      "procedimiento": "PGC 7.4.1",
+      "version": 2,
+      "vigencia": "2023-01-10",
+      "archivado": "COMPRAS",
+      "retencion": "1 AÑO",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-100/3",
+      "titulo": "OPORTUNIDADES DE MEJORA PARA PROVEEDORES",
+      "procedimiento": "PGC 7.4.1",
+      "version": 1,
+      "vigencia": "2023-01-10",
+      "archivado": "COMPRAS",
+      "retencion": "1 AÑO",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-100/2",
+      "titulo": "EVALUACION DE PROVEEDORES BIENES",
+      "procedimiento": "PGC 7.4.1",
+      "version": 1,
+      "vigencia": "2024-10-25",
+      "archivado": "COMPRAS",
+      "retencion": "1 AÑO",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-101",
+      "titulo": "PLANILLA ACCIONES 5 S",
+      "procedimiento": "ITSE 4.4.6/11",
+      "version": 3,
+      "vigencia": "2023-12-20",
+      "archivado": "SEGURIDAD E HIGIENE",
+      "retencion": "1 AÑO",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-102",
+      "titulo": "CHECK LIST CONTROL DE ESCALERAS",
+      "procedimiento": "ITSE 4.4.6/13",
+      "version": 3,
+      "vigencia": "2026-05-12",
+      "archivado": "SEGURIDAD E HIGIENE",
+      "retencion": "SEMESTRAL",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-103",
+      "titulo": "REGISTRO DE CONTROL DE TEMPERATURA PRENSA",
+      "procedimiento": "IP 7.5/14",
+      "version": 1,
+      "vigencia": "2018-05-21",
+      "archivado": "CALIDAD",
+      "retencion": "6 MESES",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-104",
+      "titulo": "PARTE DIARIO DE TAREAS DE MANTENIMIENTO",
+      "procedimiento": "PGM 6.3",
+      "version": 1,
+      "vigencia": "2018-10-22",
+      "archivado": "MANTENIMIENTO",
+      "retencion": "6 MESES",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "EXHIBIT 7,1",
+      "titulo": "TRASMITAL LETTER",
+      "procedimiento": "PGI 7.3",
+      "version": 0,
+      "vigencia": "2012-12-10",
+      "archivado": "INGENIERIA",
+      "retencion": "6 MESES",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "EXHIBIT 14,1",
+      "titulo": "CONTROL DE CALIBRACION",
+      "procedimiento": "PGK 7.6",
+      "version": 2,
+      "vigencia": "2013-01-04",
+      "archivado": "CALIDAD",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-105",
+      "titulo": "EVALUACIÓN DE LA ACTIVIDAD DE CAPACITACIÓN",
+      "procedimiento": "PGR 6.2.2",
+      "version": 1,
+      "vigencia": "2018-05-16",
+      "archivado": "RRHH",
+      "retencion": "1 AÑO",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-105/1",
+      "titulo": "IMPACTO DE LA ACTIVIDAD DE CAPACITACIÓN",
+      "procedimiento": "PGR 6.2.2",
+      "version": 1,
+      "vigencia": "2018-05-16",
+      "archivado": "RRHH",
+      "retencion": "1 AÑO",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-106",
+      "titulo": "LISTADO DE NUMEROS INTERNOS DE TUBOS",
+      "procedimiento": "IP 8.5.2",
+      "version": 1,
+      "vigencia": "2018-11-13",
+      "archivado": "PRODUCCION",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-107",
+      "titulo": "POLITICA DE CALIDAD",
+      "procedimiento": "PGG 5,6",
+      "version": 2,
+      "vigencia": "2020-06-16",
+      "archivado": "SIG",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-108",
+      "titulo": "LISTADO DE PROVEEDORES ACTIVOS",
+      "procedimiento": "PGC 7.4.1",
+      "version": 1,
+      "vigencia": "2019-03-20",
+      "archivado": "COMPRAS",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-108/1",
+      "titulo": "LISTADO DE PROVEEDORES NUEVOS",
+      "procedimiento": "PGC 7.4.1",
+      "version": 1,
+      "vigencia": "2019-03-20",
+      "archivado": "COMPRAS",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-108/2",
+      "titulo": "LISTADO DE PROVEEDORES DE SERVICIO",
+      "procedimiento": "PGC 7.4.1",
+      "version": 1,
+      "vigencia": "2019-03-20",
+      "archivado": "COMPRAS",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-109",
+      "titulo": "RESCATE DE FUENTES",
+      "procedimiento": "PGSE 4.4.7",
+      "version": 1,
+      "vigencia": "2019-04-03",
+      "archivado": "RADIOLOGIA",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-110",
+      "titulo": "MANUAL INTEGRADO",
+      "procedimiento": "",
+      "version": 1,
+      "vigencia": "2017-08-16",
+      "archivado": "SIG",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-111",
+      "titulo": "INFORME HOLIDAY",
+      "procedimiento": "IK 8.2.4/5",
+      "version": 1,
+      "vigencia": "2018-05-06",
+      "archivado": "CONTROL DE CALIDAD",
+      "retencion": "5 A 10 AÑOS",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-112",
+      "titulo": "PLANILLA DE ENSAYOS DE ADHERENCIAS",
+      "procedimiento": "IP 7.5/51",
+      "version": 1,
+      "vigencia": "2018-05-06",
+      "archivado": "CONTROL DE CALIDAD",
+      "retencion": "5 A 10 AÑOS",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-113",
+      "titulo": "REGISTRO DE DUREZA",
+      "procedimiento": "IK 8.2.4/8",
+      "version": 1,
+      "vigencia": "2019-07-01",
+      "archivado": "CONTROL DE CALIDAD",
+      "retencion": "5 A 10 AÑOS",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-114",
+      "titulo": "CALIBRACION DE TERMOCUPLAS",
+      "procedimiento": "IP 7.5/71",
+      "version": 1,
+      "vigencia": "2019-08-14",
+      "archivado": "CONTROL DE CALIDAD",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-115",
+      "titulo": "GESTION DE REEMPLAZOS",
+      "procedimiento": "PGR 6.2.2",
+      "version": 1,
+      "vigencia": "2019-08-17",
+      "archivado": "RRHH",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-116",
+      "titulo": "GESTION DE PUESTOS CLAVES",
+      "procedimiento": "PGR 6.2.3",
+      "version": 1,
+      "vigencia": "2019-08-18",
+      "archivado": "RRHH",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-117",
+      "titulo": "ORGANIGRAMA",
+      "procedimiento": "PGG 5.6",
+      "version": 7,
+      "vigencia": "2024-07-01",
+      "archivado": "RRHH",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-118",
+      "titulo": "PLANILLA DE CONTROL DE CHAPAS",
+      "procedimiento": "PGP 7.5.5/1",
+      "version": 1,
+      "vigencia": "2019-08-27",
+      "archivado": "CONTROL DE CALIDAD",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-119",
+      "titulo": "CRONOGRAMA ANUAL DE MANTENIMIENTO PREVENTIVO DE EQUIPOS",
+      "procedimiento": "ITQ 4.2.3/1",
+      "version": 1,
+      "vigencia": "2019-09-12",
+      "archivado": "SISTEMAS",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-120",
+      "titulo": "PANEL SOLIOCITUD DE SERVICIO",
+      "procedimiento": "ITQ 4.2.3/1",
+      "version": 1,
+      "vigencia": "2019-09-12",
+      "archivado": "SISTEMAS",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-121",
+      "titulo": "CRONOGRAMA DE LICENCIAS DE SOFTWARE",
+      "procedimiento": "ITQ 4.2.3/1",
+      "version": 1,
+      "vigencia": "2019-09-12",
+      "archivado": "SISTEMAS",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-122",
+      "titulo": "PLANIFICACION CORTO-MEDIANO-LARGO PLAZO",
+      "procedimiento": "ITQ 4.2.3/1",
+      "version": 1,
+      "vigencia": "2019-09-12",
+      "archivado": "SISTEMAS",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-123",
+      "titulo": "REGISTRO GESTION DE CAMBIOS",
+      "procedimiento": "PGI 7.3",
+      "version": 0,
+      "vigencia": "2019-12-26",
+      "archivado": "INGENIERIA",
+      "retencion": "SIEMPRTE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-124",
+      "titulo": "AUTORIZACION A TAREAS NO RUTINARIAS",
+      "procedimiento": "ITSE 4.4.6-17",
+      "version": 1,
+      "vigencia": "2020-06-13",
+      "archivado": "S&H",
+      "retencion": "1 AÑO",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-125",
+      "titulo": "MANTENIMIENTO DE INFRAESTRUCTURA",
+      "procedimiento": "PGM 6.3",
+      "version": 1,
+      "vigencia": "2020-04-08",
+      "archivado": "MANTENIMIENTO",
+      "retencion": "1 AÑO",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-126",
+      "titulo": "MATRIZ DE CONSULTA Y PARTICIPACION",
+      "procedimiento": "ITSE 4.4.3-2",
+      "version": 2,
+      "vigencia": "2021-11-06",
+      "archivado": "S&H",
+      "retencion": "1 AÑO",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-127",
+      "titulo": "FORMULARIO DE PLANIFICACION DE S&H",
+      "procedimiento": "PGMS 4.5.1",
+      "version": 1,
+      "vigencia": "2020-07-13",
+      "archivado": "S&H",
+      "retencion": "1 AÑO",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-128",
+      "titulo": "NORMAS DE SEGURIDAD PARA VISITANTES",
+      "procedimiento": "ITSE 4.4.6-15",
+      "version": 1,
+      "vigencia": "2020-07-24",
+      "archivado": "S&H",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-129",
+      "titulo": "REGISTRO DE LIMPIEZA DE BAÑOS",
+      "procedimiento": "ITSE 4.4.6-11",
+      "version": 1,
+      "vigencia": "2020-09-11",
+      "archivado": "S&H",
+      "retencion": "SIEMPRE",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-130",
+      "titulo": "REGISTRO CHARLA DE 5 MINUTOS",
+      "procedimiento": "",
+      "version": 1,
+      "vigencia": "2021-04-20",
+      "archivado": "S&H - CTRL DE CALIDAD",
+      "retencion": "1 AÑO",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-131",
+      "titulo": "POLITICA RESPONSABILIDAD SOCIAL EMPRESARIAL",
+      "procedimiento": "",
+      "version": 1,
+      "vigencia": "2021-08-09",
+      "archivado": "DIRECCION",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-132",
+      "titulo": "CODIGO DE ETICA",
+      "procedimiento": "",
+      "version": 1,
+      "vigencia": null,
+      "archivado": "",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-133",
+      "titulo": "EVALUACION DEL NUEVO COLABORADOR",
+      "procedimiento": "PGR 6.2.2",
+      "version": 1,
+      "vigencia": "2022-09-15",
+      "archivado": "RRHH",
+      "retencion": "SIEMPRE",
+      "disposicion": "ARCHIVAR"
+    },
+    {
+      "codigo": "F-134",
+      "titulo": "CONTROL CALENDARIO CALIBRACION DE INSTRUMENTOS",
+      "procedimiento": "PGI 7.3.6-2",
+      "version": 1,
+      "vigencia": "2022-11-18",
+      "archivado": "INGENIERIA",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-135",
+      "titulo": "ORDEN DE DESPACHO",
+      "procedimiento": "PGP 7.5.1/1",
+      "version": 1,
+      "vigencia": "2023-02-01",
+      "archivado": "PRODUCCION",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-136",
+      "titulo": "MINUTA DE REUNION",
+      "procedimiento": "PGP 7.5.1/8",
+      "version": 1,
+      "vigencia": "2023-08-01",
+      "archivado": "LIDER DE PROY.",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-137",
+      "titulo": "PLANILLA DE CERTIFICACION",
+      "procedimiento": "PGP 7.5.1/8",
+      "version": 1,
+      "vigencia": "2023-08-01",
+      "archivado": "LIDER DE PROY.",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-138",
+      "titulo": "REGISTRO REPORTE DE AVANCES",
+      "procedimiento": "PGP 7.5.1/8",
+      "version": 1,
+      "vigencia": "2023-08-01",
+      "archivado": "LIDER DE PROY.",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-139",
+      "titulo": "REGISTRO DE CAMBIO DE ALCANCE",
+      "procedimiento": "PGP 7.5.1/8",
+      "version": 1,
+      "vigencia": "2023-08-01",
+      "archivado": "LIDER DE PROY.",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-140",
+      "titulo": "SOLICITUD DE DESVIO",
+      "procedimiento": "PGP 7.5.1/8",
+      "version": 1,
+      "vigencia": "2023-10-12",
+      "archivado": "LIDER DE PROY.",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-141",
+      "titulo": "SOLICITUD DE INSPECCION",
+      "procedimiento": "PGP 7.5.1/8",
+      "version": 1,
+      "vigencia": "2023-10-12",
+      "archivado": "LIDER DE PROY.",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-142",
+      "titulo": "DATOS DE INSTRUCCIONES PWHT",
+      "procedimiento": "IP 7.5/71",
+      "version": 8,
+      "vigencia": "2023-10-31",
+      "archivado": "CONTROL DE CALIDAD",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "EXHIBIT 13.1",
+      "titulo": "HOJA DE INSTRUCCIÓN TRATAMIENTO TERMICO",
+      "procedimiento": "IP 7.5/71",
+      "version": 8,
+      "vigencia": "2023-10-31",
+      "archivado": "INGENIERIA",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F- 143",
+      "titulo": "CONTROL DE CHAPAS",
+      "procedimiento": "IP 8.5.2",
+      "version": 1,
+      "vigencia": "2023-11-01",
+      "archivado": "CONTROL DE CALIDAD",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-144",
+      "titulo": "ANALISIS DE CONTEXTO PESTEL",
+      "procedimiento": "PGG 5.6",
+      "version": 1,
+      "vigencia": "2023-11-23",
+      "archivado": "DIRECCION",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-145",
+      "titulo": "ANALISIS DE CONTEXTO Y MERCADO",
+      "procedimiento": "PGG 5.6",
+      "version": 1,
+      "vigencia": "2023-11-23",
+      "archivado": "DIRECCION",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-146",
+      "titulo": "PARTES INTERESADAS RIESGOS Y OPORTUNIDADES",
+      "procedimiento": "PGG 5.6",
+      "version": 1,
+      "vigencia": "2023-11-23",
+      "archivado": "DIRECCION",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-147",
+      "titulo": "INFORME REVISION POR LA DIRECCION",
+      "procedimiento": "PGG 5.6",
+      "version": 1,
+      "vigencia": "2023-11-23",
+      "archivado": "DIRECCION",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-148",
+      "titulo": "PLANILLA CONTROL DE CARTELERIA",
+      "procedimiento": "",
+      "version": 1,
+      "vigencia": "2023-09-25",
+      "archivado": "S&H",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-149",
+      "titulo": "REGISTRO MEGADO ELECTRICO",
+      "procedimiento": "",
+      "version": 1,
+      "vigencia": null,
+      "archivado": "INGENIERIA",
+      "retencion": "",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-150",
+      "titulo": "MATRIZ DE COMUNICACIÓN DE PROYECTOS",
+      "procedimiento": "PGP 7.5.1.8",
+      "version": 1,
+      "vigencia": "2024-05-22",
+      "archivado": "LIDER DE PROY.",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-151",
+      "titulo": "PUNCH-LIST LISTADO DE TAREAS PENDIENTES",
+      "procedimiento": "PGP 7.5.1.8",
+      "version": 1,
+      "vigencia": null,
+      "archivado": "",
+      "retencion": "",
+      "disposicion": ""
+    },
+    {
+      "codigo": "F-152",
+      "titulo": "ASIGNACION DE INTERNOS PARA CAÑOS.",
+      "procedimiento": "IC 7.4.1",
+      "version": 1,
+      "vigencia": null,
+      "archivado": "",
+      "retencion": "",
+      "disposicion": ""
+    },
+    {
+      "codigo": "F-153",
+      "titulo": "CONTROL DE CAMBIO DE LIQUIDOS RADIOGRAFICOS",
+      "procedimiento": "PGK 8.1",
+      "version": 1,
+      "vigencia": "2025-10-17",
+      "archivado": "RADIOLOGIA",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-154",
+      "titulo": "INFORME DE EVALUACION POR ULTRASONIDO",
+      "procedimiento": "IK 8.2.4-23",
+      "version": 1,
+      "vigencia": "2025-10-31",
+      "archivado": "CONTROL DE CALIDAD",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-155",
+      "titulo": "REGISTRO DE COPIAS CONTROLADAS",
+      "procedimiento": "PGQ 7.5.3",
+      "version": 1,
+      "vigencia": "2025-11-20",
+      "archivado": "SIG",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-156",
+      "titulo": "CONTROL DE PRUEBA HIDRAULICA",
+      "procedimiento": "IK 8.2.4/1",
+      "version": 1,
+      "vigencia": "2026-04-07",
+      "archivado": "CONTROL DE CALIDAD",
+      "retencion": "5 años",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-157",
+      "titulo": "REGISTRO PRUEBA DE FUGA",
+      "procedimiento": "IK 8.2.4-3 / IK 8.2.4-9",
+      "version": 1,
+      "vigencia": "2026-04-07",
+      "archivado": "CONTROL DE CALIDAD",
+      "retencion": "5 / 10 AÑOS",
+      "disposicion": "DESTRUCCION"
+    },
+    {
+      "codigo": "F-158",
+      "titulo": "REGISTRO INSPECCION VISUAL INTERNA",
+      "procedimiento": "IP 7.5-33",
+      "version": 1,
+      "vigencia": "2026-04-07",
+      "archivado": "CONTROL DE CALIDAD",
+      "retencion": "",
+      "disposicion": ""
+    },
+    {
+      "codigo": "F-159",
+      "titulo": "REGISTRO INSPECCION VISUAL EXTERNA",
+      "procedimiento": "IP 7.5-33",
+      "version": 1,
+      "vigencia": "2026-04-07",
+      "archivado": "CONTROL DE CALIDAD",
+      "retencion": "",
+      "disposicion": ""
+    },
+    {
+      "codigo": "F-160",
+      "titulo": "DESCARGA DE MATERIALES UTILIZADOS.",
+      "procedimiento": "PGK 8.2.4",
+      "version": 1,
+      "vigencia": "2026-05-14",
+      "archivado": "CONTROL DE CALIDAD",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-161",
+      "titulo": "CONTROL DE CONEXIONES",
+      "procedimiento": "PGK 8.2.4",
+      "version": 1,
+      "vigencia": "2026-05-14",
+      "archivado": "CONTROL DE CALIDAD",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-162",
+      "titulo": "CONTROL DIMENSIONAL",
+      "procedimiento": "PGK 8.2.4",
+      "version": 1,
+      "vigencia": "2026-05-14",
+      "archivado": "CONTROL DE CALIDAD",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-163",
+      "titulo": "INERTIZADO DE RECIPIENTES",
+      "procedimiento": "PGK 8.2.4",
+      "version": 1,
+      "vigencia": "2026-05-15",
+      "archivado": "CONTROL DE CALIDAD",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-164",
+      "titulo": "INFORME DE PARTICULAS MAGNETICAS",
+      "procedimiento": "PGK8.2.4",
+      "version": 1,
+      "vigencia": "2026-05-15",
+      "archivado": "CONTROL DE CALIDAD",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-165",
+      "titulo": "CONTROL DE ACCESORIOS",
+      "procedimiento": "PGK 8.2.4",
+      "version": 1,
+      "vigencia": "2026-05-15",
+      "archivado": "CONTROL DE CALIDAD",
+      "retencion": "SIEMPRE",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-166",
+      "titulo": "CONTROL MEDICION RUIDO TALLER",
+      "procedimiento": "PGMS 4.5.1",
+      "version": 1,
+      "vigencia": "2026-06-10",
+      "archivado": "S&H",
+      "retencion": "ANUAL",
+      "disposicion": "DIGITAL"
+    },
+    {
+      "codigo": "F-167",
+      "titulo": "CONTROL MEDICION LUZ",
+      "procedimiento": "PGMS 4.5.1",
+      "version": 1,
+      "vigencia": "2026-06-10",
+      "archivado": "S&H",
+      "retencion": "ANUAL",
+      "disposicion": "DIGITAL"
+    }
+  ],
+  "politica_dist": [
+    {
+      "copia": "COPIA Nº 1",
+      "fecha_distribucion": "2020-08-28",
+      "fecha_vigencia": "2020-06-16",
+      "sectores": [
+        "Portería"
+      ]
+    },
+    {
+      "copia": "COPIA Nº 3",
+      "fecha_distribucion": "2020-08-28",
+      "fecha_vigencia": "2020-06-16",
+      "sectores": [
+        "Panel de Comunicación Ingreso"
+      ]
+    },
+    {
+      "copia": "COPIA Nº 4",
+      "fecha_distribucion": "2020-08-28",
+      "fecha_vigencia": "2020-06-16",
+      "sectores": [
+        "Mantenimiento"
+      ]
+    },
+    {
+      "copia": "COPIA Nº 5",
+      "fecha_distribucion": "2020-08-28",
+      "fecha_vigencia": "2020-06-16",
+      "sectores": [
+        "Sala Reunion Gerencia"
+      ]
+    },
+    {
+      "copia": "COPIA Nº 6",
+      "fecha_distribucion": "2020-08-28",
+      "fecha_vigencia": "2020-06-16",
+      "sectores": [
+        "Sala Reunion Ing."
+      ]
+    },
+    {
+      "copia": "COPIA Nº 8",
+      "fecha_distribucion": "2020-08-28",
+      "fecha_vigencia": "2020-06-16",
+      "sectores": [
+        "Sala Inspectores"
+      ]
+    },
+    {
+      "copia": "COPIA Nº 9",
+      "fecha_distribucion": "2020-08-28",
+      "fecha_vigencia": "2020-06-16",
+      "sectores": [
+        "Almacenes"
+      ]
+    },
+    {
+      "copia": "COPIA Nº 10",
+      "fecha_distribucion": "2020-08-28",
+      "fecha_vigencia": "2020-06-16",
+      "sectores": [
+        "Comedor"
+      ]
+    },
+    {
+      "copia": "COPIA Nº 12",
+      "fecha_distribucion": "2020-08-28",
+      "fecha_vigencia": "2020-06-16",
+      "sectores": [
+        "Baño Corte"
+      ]
+    },
+    {
+      "copia": "COPIA Nº 13",
+      "fecha_distribucion": "2020-08-28",
+      "fecha_vigencia": "2020-06-16",
+      "sectores": [
+        "Baño tks chicos"
+      ]
+    },
+    {
+      "copia": "COPIA Nº 14",
+      "fecha_distribucion": "2020-08-28",
+      "fecha_vigencia": "2020-06-16",
+      "sectores": [
+        "Puesto 1"
+      ]
+    },
+    {
+      "copia": "COPIA Nº 15",
+      "fecha_distribucion": "2020-08-28",
+      "fecha_vigencia": "2020-06-16",
+      "sectores": [
+        "Puesto 2"
+      ]
+    },
+    {
+      "copia": "COPIA Nº 16",
+      "fecha_distribucion": "2020-08-28",
+      "fecha_vigencia": "2020-06-16",
+      "sectores": [
+        "Puesto 3"
+      ]
+    },
+    {
+      "copia": "COPIA Nº 17",
+      "fecha_distribucion": "2020-08-28",
+      "fecha_vigencia": "2020-06-16",
+      "sectores": [
+        "Puesto 4"
+      ]
+    },
+    {
+      "copia": "COPIA Nº 18",
+      "fecha_distribucion": "2020-08-28",
+      "fecha_vigencia": "2020-06-16",
+      "sectores": [
+        "Puesto 5"
+      ]
+    },
+    {
+      "copia": "COPIA Nº 19",
+      "fecha_distribucion": "2020-08-28",
+      "fecha_vigencia": "2020-06-16",
+      "sectores": [
+        "Puesto 6"
+      ]
+    },
+    {
+      "copia": "COPIA Nº 20",
+      "fecha_distribucion": "2020-08-28",
+      "fecha_vigencia": "2020-06-16",
+      "sectores": [
+        "Puesto 7"
+      ]
+    },
+    {
+      "copia": "COPIA Nº 21",
+      "fecha_distribucion": "2020-08-28",
+      "fecha_vigencia": "2020-06-16",
+      "sectores": [
+        "Puesto 8"
+      ]
+    },
+    {
+      "copia": "COPIA Nº 22",
+      "fecha_distribucion": "2020-08-28",
+      "fecha_vigencia": "2020-06-16",
+      "sectores": [
+        "Gerencia General"
+      ]
+    },
+    {
+      "copia": "COPIA Nº 23",
+      "fecha_distribucion": "2020-08-28",
+      "fecha_vigencia": "2020-06-16",
+      "sectores": [
+        "Planta de Rehabilitacion"
+      ]
+    },
+    {
+      "copia": "COPIA Nº 25",
+      "fecha_distribucion": "2020-08-28",
+      "fecha_vigencia": "2020-06-16",
+      "sectores": [
+        "SIG"
+      ]
+    },
+    {
+      "copia": "Nota: Los departamentos de la Organización tienen la \"Politica del Sistema Integrado\" en la red del sistema informatico de la Empresa.",
+      "fecha_distribucion": null,
+      "fecha_vigencia": null,
+      "sectores": []
+    }
+  ],
+  "politica_sectores": [
+    "Portería",
+    "Panel de Comunicación Ingreso",
+    "Mantenimiento",
+    "Sala Reunion Gerencia",
+    "Sala Reunion Ing.",
+    "Sala Inspectores",
+    "Almacenes",
+    "Comedor",
+    "Baño Corte",
+    "Baño tks chicos",
+    "Puesto 1",
+    "Puesto 2",
+    "Puesto 3",
+    "Puesto 4",
+    "Puesto 5",
+    "Puesto 6",
+    "Puesto 7",
+    "Puesto 8",
+    "Gerencia General",
+    "Planta de Rehabilitacion",
+    "SIG"
+  ]
+}

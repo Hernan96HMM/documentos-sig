@@ -1,0 +1,66 @@
+name: documentos-sig
+
+services:
+  db:
+    image: postgres:16-alpine
+    container_name: documentos-sig-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:-documentos_sig}
+      POSTGRES_USER: ${POSTGRES_OWNER_USER:-documentos_owner}
+      POSTGRES_PASSWORD: ${POSTGRES_OWNER_PASSWORD:?falta POSTGRES_OWNER_PASSWORD en .env}
+      # Evita que un locale raro del host cambie el ordenamiento de los códigos.
+      POSTGRES_INITDB_ARGS: "--encoding=UTF8 --locale=C"
+    volumes:
+      # Bind mount real, no volumen nombrado.
+      # ANTES del primer `docker compose up`, en el server:
+      #     sudo mkdir -p /mnt/disco1/sicalab/documentos-sig/data
+      #     sudo chown -R 70:70 /mnt/disco1/sicalab/documentos-sig/data
+      # (70:70 = UID/GID del usuario postgres dentro de postgres:16-alpine)
+      - /mnt/disco1/sicalab/documentos-sig/data:/var/lib/postgresql/data
+    healthcheck:
+      test:
+        ["CMD-SHELL", "pg_isready -U ${POSTGRES_OWNER_USER:-documentos_owner} -d ${POSTGRES_DB:-documentos_sig}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 20s
+    networks: [documentos-sig]
+
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: documentos-sig:latest
+    container_name: documentos-sig-app
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      NODE_ENV: production
+      # Sin esto Next bindea sólo a la IP interna del contenedor y el
+      # healthcheck falla — el bug que tuvimos con `inducciones`.
+      HOSTNAME: 0.0.0.0
+      PORT: 3000
+      # Rol de runtime, permisos mínimos. El rol owner NUNCA va acá:
+      # se pasa puntualmente con `docker exec -e DATABASE_URL_OWNER=...`.
+      DATABASE_URL: ${DATABASE_URL:?falta DATABASE_URL en .env}
+      AUTH_SECRET: ${AUTH_SECRET:?falta AUTH_SECRET en .env}
+      AUTH_TRUST_HOST: "true"
+      AUTH_URL: ${AUTH_URL:-http://documentos-sig.sica}
+    ports:
+      # nginx corre en el host (no dockerizado) y hace proxy_pass contra
+      # http://192.168.0.195:3110 — con 127.0.0.1 no llega.
+      - "${APP_PORT:-3110}:3000"
+    healthcheck:
+      test: ["CMD-SHELL", "wget -q -O- http://127.0.0.1:3000/api/health || exit 1"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 25s
+    networks: [documentos-sig]
+
+networks:
+  documentos-sig:
+    driver: bridge
