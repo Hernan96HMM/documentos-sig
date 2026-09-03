@@ -28,6 +28,11 @@ interface Props {
 const AREAS_SIG: AreaSig[] = ["Calidad", "Seguridad", "Ambiente", "Compartido"];
 const ESTADOS: Estado[] = ["Vigente", "Atencion", "Revisar"];
 
+function escapeHtml(v: unknown): string {
+  const s = v === null || v === undefined || v === "" ? "—" : String(v);
+  return s.replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]!);
+}
+
 /** Convierte el borrador de la tabla (todo strings) al JSON que espera la API. */
 function payloadDocumento(b: Borrador, categoria: Categoria): Record<string, unknown> {
   const comun = {
@@ -326,8 +331,120 @@ export function ListadoMaestro({ inicial, usuario }: Props) {
     URL.revokeObjectURL(url);
   }
 
+  /** Cabeceras y filas para el PDF — sin Años ni Estado (redundantes en un informe impreso). */
+  function datosPdf(): { cabeceras: string[]; filas: unknown[][] } {
+    if (tabDef.kind === "dist") {
+      return {
+        cabeceras: ["Copia", "Fecha distribución", "Fecha vigencia", "Sectores"],
+        filas: copiasFiltradas.map((c) => [
+          c.copia,
+          fmtFecha(c.fecha_distribucion),
+          fmtFecha(c.fecha_vigencia),
+          c.sectores.join(", "),
+        ]),
+      };
+    }
+    if (tabDef.categoria === "registros") {
+      return {
+        cabeceras: ["Código", "Título", "Procedimiento", "Versión", "Vigencia", "Archivado", "Retención", "Disposición final"],
+        filas: filtrados.map((d) => [
+          d.codigo,
+          d.titulo,
+          d.procedimiento,
+          d.version,
+          fmtFecha(d.vigencia),
+          d.archivado,
+          d.retencion,
+          d.disposicion,
+        ]),
+      };
+    }
+    const conArea = tabDef.categoria === "proc_gen";
+    return {
+      cabeceras: ["Código", "Título", ...(conArea ? ["Área"] : []), "Área SIG", "Versión", "Último cambio"],
+      filas: filtrados.map((d) => [
+        d.codigo,
+        d.titulo,
+        ...(conArea ? [d.area] : []),
+        d.areaSig,
+        d.version,
+        fmtFecha(d.ultimo_cambio),
+      ]),
+    };
+  }
+
+  /**
+   * Arma un documento HTML propio (no depende del layout de la app) y lo abre
+   * en una pestaña nueva para imprimir ahí — así no se toca la pestaña del
+   * sitio y no hay riesgo de que la tabla se corte por los contenedores con
+   * scroll de la vista en pantalla.
+   */
   function exportarPdf() {
-    window.print();
+    const { cabeceras, filas } = datosPdf();
+    const titulo = `Listado Maestro de Documentos — ${tabDef.label}`;
+    const subtitulo = titulosFiltro.length > 0 ? titulosFiltro.join(" · ") : "";
+    const fechaTexto = hoy.toLocaleDateString("es-AR");
+
+    const cabecerasHtml = cabeceras.map((c) => `<th>${escapeHtml(c)}</th>`).join("");
+    const filasHtml = filas.length
+      ? filas.map((fila) => `<tr>${fila.map((v) => `<td>${escapeHtml(v)}</td>`).join("")}</tr>`).join("")
+      : `<tr><td colspan="${cabeceras.length}" class="vacio">Sin resultados para el filtro aplicado.</td></tr>`;
+
+    const html = `<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>${escapeHtml(titulo)}</title>
+<style>
+  @page { size: A4 landscape; margin: 14mm; }
+  * { box-sizing: border-box; }
+  body { font-family: 'Segoe UI', Arial, sans-serif; color: #111; margin: 0; padding: 26px; }
+  .eyebrow {
+    font-family: 'SF Mono', Consolas, monospace; font-size: 10px; letter-spacing: .14em;
+    text-transform: uppercase; color: #b8791f; margin-bottom: 6px;
+  }
+  h1 { font-size: 19px; font-weight: 600; margin: 0 0 4px; }
+  .sub { font-size: 11.5px; color: #555; margin-bottom: 18px; }
+  table { width: 100%; border-collapse: collapse; font-size: 10.5px; }
+  th, td { border: 1px solid #ccc; padding: 6px 8px; text-align: left; vertical-align: top; }
+  th {
+    background: #eee; font-family: 'SF Mono', Consolas, monospace; font-size: 9.5px;
+    text-transform: uppercase; letter-spacing: .04em;
+  }
+  tr:nth-child(even) td { background: #fafafa; }
+  td.vacio { text-align: center; color: #777; padding: 24px; }
+  footer { margin-top: 14px; font-size: 9.5px; color: #777; }
+</style>
+</head>
+<body>
+  <div class="eyebrow">Sistema Integrado de Gestión — SICA</div>
+  <h1>${escapeHtml(titulo)}</h1>
+  <div class="sub">${subtitulo ? escapeHtml(subtitulo) + " — " : ""}${escapeHtml(fechaTexto)}</div>
+  <table>
+    <thead><tr>${cabecerasHtml}</tr></thead>
+    <tbody>${filasHtml}</tbody>
+  </table>
+  <footer>${filas.length} registro(s) — generado el ${escapeHtml(fechaTexto)}</footer>
+</body>
+</html>`;
+
+    const ventana = window.open("", "_blank");
+    if (!ventana) {
+      avisar("El navegador bloqueó la ventana emergente. Habilitá pop-ups para exportar a PDF.", "error");
+      return;
+    }
+    ventana.document.open();
+    ventana.document.write(html);
+    ventana.document.close();
+    ventana.onload = () => {
+      // Pequeño margen para que el layout de la tabla asiente antes de
+      // invocar el diálogo de impresión (algunos navegadores disparan `load`
+      // apenas antes de terminar de maquetar).
+      setTimeout(() => {
+        ventana.focus();
+        ventana.print();
+      }, 80);
+    };
   }
 
   // --- render --------------------------------------------------------------
